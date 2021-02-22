@@ -1,0 +1,75 @@
+.top-nav-bar{
+    background-color: black;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 14px;
+}
+
+.column-one{
+    background-image: url("../images/sonos\ headphones.jpg");
+    background-size: cover;
+    height: 350px;
+}
+
+.list-group-item-one{
+    background-image: url(../Images/Rabbit.jpg);
+    background-size: cover;
+    height: 175px;
+}
+.list-group-item-two{
+    background-image: url(../images/brainmatrix.jpg);
+    background-size: cover;
+    height: 175px;
+}
+
+.col-md{
+    color: #f42;
+    font-weight: 700;
+    line-height: 1.1;
+    font-family: avalon,sans-serif;
+    font-size: 28px;
+    letter-spacing: 0.015em;
+    margin-bottom: 24px;
+}
+
+.col-sm-3{
+    border: 10px double white;
+}
+
+.card-header{
+    background-color: #f42;
+    color: #fff;
+    padding: 10px 16px;
+    font-size: 18px;
+}
+
+.list-group-item-a{
+    background-color: beige;
+    font-size: 18px;
+    list-style: none;
+    text-align: center;
+}
+
+
+.card-text-1{
+    vertical-align: baseline;
+}
+
+.list-group-item-four{
+    color: #555;
+    list-style-type: circle;
+}
+.list-group-item-three{
+    color: #f42;
+    list-style:none;
+}
+
+.card-img-overlay {
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    word-spacing: 0.1em;
+}
