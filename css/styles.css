@@ -6,7 +6,7 @@
 }
 
 .column-one{
-    background-image: url("../images/sonos\ headphones.jpg");
+    background-image: url("../Images/sonos\ headphones.jpg");
     background-size: cover;
     height: 350px;
 }
@@ -17,7 +17,7 @@
     height: 175px;
 }
 .list-group-item-two{
-    background-image: url(../images/brainmatrix.jpg);
+    background-image: url(../Images/brainmatrix.jpg);
     background-size: cover;
     height: 175px;
 }
